@@ -8,5 +8,3 @@ def maximum(n1, n2):
 a = 2
 b = 4
 print(maximum(a, b))
-
-print('Hello')
